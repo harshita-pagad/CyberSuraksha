@@ -6,7 +6,7 @@ CyberSuraksha is a gamified cybersecurity awareness platform designed to help us
 
 ## 🌐 Visit Project
 
-🚀 **Live Demo:** Coming Soon!
+🚀 **[Click Here!!](https://harshita-pagad.github.io/CyberSuraksha/)**
 
 ## ✨ Features
 
